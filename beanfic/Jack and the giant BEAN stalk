@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Jacks magical Bean- Freebean </title>
+        <link rel="stylesheet" href="./../beanhacks.css">
+    </head>
+    <h1>Case File - Jacks magical Bean</h1>
+    <h2>/freebeans/arbeans/Jacks magical Bean</h2>
+    <p>I'm not talking about the story i'm talking about the MAGICAL Bean. (We don't know what it tastes like but we think it'll taste like a Baked Bean but rotten.)</p>
+    <p>Bean Rating: ?/10/p>
+ <br/>
+    <button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>   
+<img src="http://1.bp.blogspot.com/-EFJq68Z7qM0/T_rXE80NMsI/AAAAAAAACQY/h_A7OVNkEPw/s1600/magic+beans+beanstalk+2.jpg">
+</html>
