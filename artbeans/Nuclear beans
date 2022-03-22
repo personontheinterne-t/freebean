@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Nuclear beans from the war.- Freebean </title>
+        <link rel="stylesheet" href="./../beanhacks.css">
+    </head>
+    <h1>Case File - Nuclear beans from the war.</h1>
+    <h2>/freebeans/arbeans/Nuclear beans from the war.</h2>
+    <p>Huh, this tastes like nuclear war.</p>
+    <p>Bean Rating: 3.4/10</p>
+ <br/>
+    <button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>   
+<img src="https://www.thoughtco.com/thmb/9v5IUyT7wezz8fjaN8Wm5vaJ4K4=/650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-645462823-0da2d18ec3fd41728c3ac21c9f6469ea.jpg">
+</html>
