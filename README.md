@@ -1,20 +1,2 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title> Bean Ice Cream- Freebean </title>
-        <link rel="stylesheet" href="./../beanhacks.css"
-    </head>
-    <h1>Case File - Bean Ice Cream</h1>
-    <h2>/freebeans/arbeans/Bean Ice Cream</h2>
-    <p>Bean Ice Cream… who made this? *licks Bean Ice Cream* huh not bad.</p>
-    <p>Bean Rating: 7/10</p>
-    <br/>
-    <button onclick="goBack()">Go Back</button>
+Welcome to Freebean! I started this project as a joke and out of unoriginality but hey maybe its better public.
 
-<script>
-function goBack() {
-  window.history.back();
-}
-</script>
-    <img src="https://i2.wp.com/dailydoseofgreens.com/wp-content/uploads/2015/05/Red-Bean-Ice-Cream4.jpg?fit=1000%2C667">
-</html>
